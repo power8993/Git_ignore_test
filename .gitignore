@@ -104,4 +104,7 @@ replay_pid*
 /Git_ignore_test/src/main/java/nocommit_some/NoCommit_7_untrack.java
 /Git_ignore_test/src/main/java/nocommit_some/NoCommit_7_untrack2.java
 
+
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
+# MAC OS Systemfile #
+.DS_Store
