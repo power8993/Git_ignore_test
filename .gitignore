@@ -99,6 +99,7 @@ replay_pid*
 .classpath
 .gitignore
 /Git_ignore_test/src/main/webapp/WEB-INF/web.xml
+/Git_ignore_test/src/main/java/nocommit_some/Nocommit_5_right.java
 
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
